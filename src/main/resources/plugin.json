@@ -1,0 +1,10 @@
+{
+  "id": "qualys",
+  "version": "1.0.0-beta1",
+  "displayName": "Qualys",
+  "vendor": "Mart\u00edn Romera",
+  "license": "Proprietary",
+  "description": "Qualys VMDR Host List Detection (SYNC_VULNS) and GAV/CSAM (SYNC_ASSETS) integration, plus file-import of Qualys Scan Results XML exports.",
+  "sdkVersion": "1",
+  "icon": "/img/sources/qualys.svg"
+}
